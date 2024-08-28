@@ -1,7 +1,6 @@
 # **🔍 Customer Insights and Market Analysis with Power BI**
 
 <div>
-    <h1 style="text-align: center;">Customer Insights Analysis Using Power BI</h1>
     <img style="text-align: left" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="15%" />
 </div>
 <br>
